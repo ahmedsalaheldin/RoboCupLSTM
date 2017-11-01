@@ -1,0 +1,49 @@
+
+
+No shuffle
+
+
+TotalFrames = 99960, AvgFramesPerTrial = 103.8, AvgFramesPerGoal = 103.3
+Trials             : 963
+Goals              : 310
+Defense Captured   : 579
+Balls Out of Bounds: 44
+Out of Time        : 30
+
+TotalFrames = 99929, AvgFramesPerTrial = 102.8, AvgFramesPerGoal = 101.0
+Trials             : 972
+Goals              : 333
+Defense Captured   : 568
+Balls Out of Bounds: 38
+Out of Time        : 33
+[start.py] Cleaning up server and other processes
+
+
+aug1
+
+TotalFrames = 99949, AvgFramesPerTrial = 101.6, AvgFramesPerGoal = 101.5
+Trials             : 984
+Goals              : 333
+Defense Captured   : 504
+Balls Out of Bounds: 60
+Out of Time        : 87
+
+TotalFrames = 99972, AvgFramesPerTrial = 101.2, AvgFramesPerGoal = 100.3
+Trials             : 988
+Goals              : 335
+Defense Captured   : 506
+Balls Out of Bounds: 50
+Out of Time        : 97
+
+
+aug 2
+
+TotalFrames = 99953, AvgFramesPerTrial = 100.9, AvgFramesPerGoal = 101.3
+Trials             : 991
+Goals              : 337
+Defense Captured   : 583
+Balls Out of Bounds: 36
+Out of Time        : 35
+
+
+

@@ -1,0 +1,71 @@
+TotalFrames = 99929, AvgFramesPerTrial = 102.4, AvgFramesPerGoal = 101.5
+Trials             : 976
+Goals              : 379
+Defense Captured   : 505
+Balls Out of Bounds: 49
+Out of Time        : 43
+
+TotalFrames = 99920, AvgFramesPerTrial = 102.0, AvgFramesPerGoal = 100.4
+Trials             : 980
+Goals              : 388
+Defense Captured   : 518
+Balls Out of Bounds: 43
+Out of Time        : 31
+[start.py] Cleaning up server and other processes
+
+No shuffle
+
+
+TotalFrames = 99960, AvgFramesPerTrial = 103.8, AvgFramesPerGoal = 103.3
+Trials             : 963
+Goals              : 310
+Defense Captured   : 579
+Balls Out of Bounds: 44
+Out of Time        : 30
+
+TotalFrames = 99929, AvgFramesPerTrial = 102.8, AvgFramesPerGoal = 101.0
+Trials             : 972
+Goals              : 333
+Defense Captured   : 568
+Balls Out of Bounds: 38
+Out of Time        : 33
+[start.py] Cleaning up server and other processes
+
+
+LSTM
+
+
+TotalFrames = 99968, AvgFramesPerTrial = 102.1, AvgFramesPerGoal = 101.1
+Trials             : 979
+Goals              : 428
+Defense Captured   : 512
+Balls Out of Bounds: 35
+Out of Time        : 4
+
+TotalFrames = 99951, AvgFramesPerTrial = 103.8, AvgFramesPerGoal = 102.6
+Trials             : 963
+Goals              : 413
+Defense Captured   : 503
+Balls Out of Bounds: 44
+Out of Time        : 3
+[start.py] Cleaning up server and other processes
+
+
+LSTM episodes
+
+TotalFrames = 99901, AvgFramesPerTrial = 102.7, AvgFramesPerGoal = 102.0
+Trials             : 973
+Goals              : 431
+Defense Captured   : 486
+Balls Out of Bounds: 54
+Out of Time        : 2
+
+TotalFrames = 99937, AvgFramesPerTrial = 102.1, AvgFramesPerGoal = 100.9
+Trials             : 979
+Goals              : 448
+Defense Captured   : 503
+Balls Out of Bounds: 26
+Out of Time        : 2
+
+
+
